@@ -9,7 +9,7 @@ Vous travaillez pour une plateforme de vente en ligne qui propose une variété 
 
 **Consignes :**
 
-1. Écrivez une fonction `triParSelection` qui prend en entrée une liste de produits. Chaque produit est représenté par un dictionnaire contenant deux propriétés : `nom` et `prix`.
+1. Écrivez une fonction `triParSelection` qui prend en entrée une liste de produits. Chaque produit est représenté par un tableau contenant deux propriétés : `nom` et `prix`.
 2. La fonction doit retourner la liste des produits triée par ordre croissant de `prix` en utilisant l'algorithme du tri par sélection.
 3. Testez votre fonction avec la liste de produits fournie.
 
